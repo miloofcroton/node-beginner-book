@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/miloofcroton/node-beginner-book#readme",
   "dependencies": {
-    "eslint": "^5.6.0"
+    "eslint": "^5.6.0",
+    "formidable": "^1.2.1"
   }
 }
